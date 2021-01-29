@@ -1,6 +1,6 @@
 apiVersion: v2
 name: reddit
-version: 1.0.0
+version: 0.1.0
 description: Application sample reddit
 maintainers:
   - name: a.surygin
@@ -20,6 +20,6 @@ dependencies:
     version: "1.0.0"
     repository: "file://../comment"
 
-  - name: mongo
+  - name: 
     version: "1.0.0"
     repository: "file://../mongo"

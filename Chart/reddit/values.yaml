@@ -22,7 +22,7 @@ ui:
 
 mongo:
   image:
-    repository: mongo
-    tag: 3.2
+    repository: ranchercharts/mongo
+    tag:
   service:
     externalPort: 27017
