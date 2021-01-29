@@ -19,3 +19,10 @@ ui:
     tag: latest
   service:
     externalPort: 9292
+
+mongo:
+  image:
+    repository: mongo
+    tag: 3.2
+  service:
+    externalPort: 27017

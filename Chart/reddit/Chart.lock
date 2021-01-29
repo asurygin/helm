@@ -1,15 +1,15 @@
 dependencies:
 - name: ui
   repository: file://../ui
-  version: 1.0.0
+  version: 0.1.0
 - name: post
   repository: file://../post
   version: 0.1.0
 - name: comment
   repository: file://../comment
   version: 0.1.0
-- name: mongodb
-  repository: https://charts.helm.sh/stable
-  version: 7.8.10
-digest: sha256:9d54d2afe306f25ac2e717070ec75c911814d58cd893b75ae19419a7e81bc571
-generated: "2021-01-28T17:12:38.247804219+03:00"
+- name: mongo
+  repository: file://../mongo
+  version: 0.1.0
+digest: sha256:280435b1841ddcd62a8704cc285e46d24c91229ae611fc1b1fa495fe0ca0e647
+generated: "2021-01-29T15:12:40.4952089+03:00"
