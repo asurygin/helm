@@ -12,4 +12,4 @@ dependencies:
   repository: file://../mongo
   version: 0.1.0
 digest: sha256:280435b1841ddcd62a8704cc285e46d24c91229ae611fc1b1fa495fe0ca0e647
-generated: "2021-01-29T16:46:05.081219337+03:00"
+generated: "2021-01-29T17:02:14.644066968+03:00"
